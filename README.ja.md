@@ -47,7 +47,7 @@
 
 ## ライセンス
 
-このプロジェクトは[BCU](https://github.com/ICEAGENB/ban-zhinese-using)ライセンスの下で公開されています。
+このプロジェクトはBCUライセンスの下で公開されています。
 
 ## スクリーンショット
 

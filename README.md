@@ -47,7 +47,7 @@ The project name `Nanno` is from the main character [**南乃 ありす(Nanno Ar
 
 ## License
 
-The project is licensed under the [BCU](https://github.com/ICEAGENB/ban-zhinese-using) license.
+Under the `GPL-3.0-or-later` license.
 
 ## Todo
 
