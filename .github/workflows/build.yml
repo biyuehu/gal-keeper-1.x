@@ -5,7 +5,7 @@ on:
     branches:
       - main
     tags:
-      - '!v*'
+      - "!v*"
   pull_request:
     branches:
       - main
@@ -34,7 +34,7 @@ jobs:
           workspaces: "./src-tauri -> target"
 
       - name: Install frontend dependencies
-        run: npm install --frozen-lockfile
+        run: pnpm install
 
       - name: Build project
         run: npx pnpm tauri build
