@@ -12,7 +12,7 @@
 
 # Nanno | GalKeeper
 
-> **Current version has been deprecated, please to support new project [SenaVN | GalKeeper v2.X](https://github.com/biyuehu/vn-cli) based on Haskell**
+> **Please to support new refactoring version [SenaVN | GalKeeper v2.X](https://github.com/biyuehu/vn-cli) based on Haskell**
 
 English | [日本語](README.ja.md)
 
